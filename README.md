@@ -4,12 +4,12 @@
 
 ---
 
-🚀 About Me
-💻 Passionate Backend Developer
-📚 Practicing Data Structures & Algorithms with JAVA
-🌱 Exploring AI, scalable backend systems, and modern web architectures
-🎯 Focused on solving real-world problems with technology
-🚀 Currently learning Full Stack
+## 👨‍💻 About Me
+- 💻 Passionate Backend Developer
+- 📚 Practicing Data Structures & Algorithms with JAVA
+- 🌱 Exploring AI, scalable backend systems, and modern web architectures
+- 🎯 Focused on solving real-world problems with technology
+- 🚀 Currently learning Full Stack
 
 ---
 
