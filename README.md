@@ -24,7 +24,41 @@
 ---
 
 ## 🔥 Top Projects
-- 🔹 Project 1 exam-proctor-ai.vercel.app
+- 🔹 Project 1
+# 🧠 Cloud-Based Online Examination System with AI Proctoring
+
+A full-stack web application for conducting secure online exams with **AI-powered proctoring**.  
+The system monitors students using webcam and browser activity to detect suspicious behavior.
+
+---
+
+## 🚀 Features
+
+### 👨‍🎓 Student Features
+- 📝 Clean and intuitive exam interface  
+- 🎥 Live webcam monitoring (AI face detection)  
+- ⚠️ Suspicion tracking with real-time indicator  
+- 🔄 Auto-submit after 20 warnings  
+- 🌐 Browser activity monitoring (tab switch, window blur)
+
+---
+
+### 🧑‍💼 Admin Features
+- 📊 Analytics dashboard (charts & reports)  
+- 🧾 Activity logs of suspicious events  
+- 📚 Exam & question management  
+- 🕒 Session monitoring (live + history)
+
+---
+
+### 🤖 AI Proctoring System
+- Face detection using AI  
+- Detects:
+  - 👤 1 face → LOW (10%)
+  - ❌ 0 face → HIGH (85%)
+  - 👥 Multiple faces → CRITICAL (95%)
+- ⚠️ Warning issued at 80% suspicion  
+- 🔄 Auto-submit after 20 warnings  
 
 <!--
 **Keshav-Shrivastava/Keshav-Shrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
