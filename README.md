@@ -15,6 +15,7 @@
 
 ## 🛠️ Tech Stack
 - 💻 Java | C++
+- 🌱 Spring Boot | REST APIs
 - 🌐 HTML | CSS
 - 🛢️ MySQL
 - ⚙️ Git & GitHub
