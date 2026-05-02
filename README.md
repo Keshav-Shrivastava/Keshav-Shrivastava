@@ -19,10 +19,6 @@
 - 🛢️ MySQL
 - ⚙️ Git & GitHub
 
----
-
-## 📊 GitHub Stats
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav-Shrivastava&show_icons=true)
 
 ---
 
