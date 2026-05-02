@@ -25,16 +25,16 @@
 
 ## 🔥 Top Projects
 - 🔹 Project 1
-# 🧠 Cloud-Based Online Examination System with AI Proctoring
+### 🧠 Cloud-Based Online Examination System with AI Proctoring
 
 A full-stack web application for conducting secure online exams with **AI-powered proctoring**.  
 The system monitors students using webcam and browser activity to detect suspicious behavior.
 
 ---
 
-## 🚀 Features
+#### 🚀 Features
 
-### 👨‍🎓 Student Features
+##### 👨‍🎓 Student Features
 - 📝 Clean and intuitive exam interface  
 - 🎥 Live webcam monitoring (AI face detection)  
 - ⚠️ Suspicion tracking with real-time indicator  
@@ -43,7 +43,7 @@ The system monitors students using webcam and browser activity to detect suspici
 
 ---
 
-### 🧑‍💼 Admin Features
+#### 🧑‍💼 Admin Features
 - 📊 Analytics dashboard (charts & reports)  
 - 🧾 Activity logs of suspicious events  
 - 📚 Exam & question management  
@@ -51,7 +51,7 @@ The system monitors students using webcam and browser activity to detect suspici
 
 ---
 
-### 🤖 AI Proctoring System
+#### 🤖 AI Proctoring System
 - Face detection using AI  
 - Detects:
   - 👤 1 face → LOW (10%)
